@@ -1,3 +1,0 @@
-pio run -d firmware --target upload
-
-npm run dev
